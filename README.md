@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Project Deployed in the following link
-https://hopeful-tesla-d3c80c.netlify.app/tast_1
+DEMO : (https://hopeful-tesla-d3c80c.netlify.app/tast_1) for more information.
+
 
 ## Table of Contents
 
