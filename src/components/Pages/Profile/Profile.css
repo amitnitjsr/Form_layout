@@ -1,0 +1,23 @@
+.card {
+    width: 520px;
+    position: absolute;
+}
+.profile-button {
+    position: relative;
+    /* padding: 450px; */
+    left: 647px;
+    padding: 10px;
+}
+.detail-row{
+    padding: 13px;
+}
+.cancel-btn{
+     background-color: #e80932;
+    }
+
+.submit-btn{
+    background-color: #28a745;
+}
+.validate-btn{
+    background-color: #007bff;
+}
